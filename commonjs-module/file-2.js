@@ -1,3 +1,4 @@
-const num = 10;
+const num1 = 10;
+const num2 = 5;
 
-module.exports = { num };
+module.exports = { num1, num2 };
